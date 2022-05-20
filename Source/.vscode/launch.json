@@ -13,7 +13,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/NezTemplate/bin/Debug/netcoreapp3.1/NezTemplate.dll",
+            "program": "${workspaceFolder}/NezTemplate/bin/Debug/net6.0/NezTemplate.dll",
             "args": [],
             "cwd": "${workspaceFolder}/NezTemplate",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console

@@ -1,0 +1,24 @@
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/$(Platform)
+/intermediateDir:obj/$(Platform)
+/platform:DesktopGL
+/config:
+/profile:Reach
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+
+#---------------------------------- Content ---------------------------------#
+
+#begin fonts/main_font.fnt
+/copy:fonts/main_font.fnt
+
+#begin fonts/main_font_0.png
+/copy:fonts/main_font_0.png
+
+#begin textures/moon.png
+/copy:textures/moon.png
+
